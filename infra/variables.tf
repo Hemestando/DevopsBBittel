@@ -6,5 +6,7 @@ variable "version_argocd" {
   type = string
 }
 
-
+variable "depot" {
+  type = string
+}
 
